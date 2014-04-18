@@ -92,7 +92,7 @@ let Tlist_WinHeight=10
 let Tlist_WinWidth=18
 let Tlist_Use_Horiz_Window=0
 nmap tl :TlistToggle<cr>
-"win manager config
+"window manager configuration
 let g:winManagerWindowLayout='FileExplorer|TagList'
 let g:persisitentBehaviour=0
 let g:windowManagerWidth=20
@@ -100,13 +100,13 @@ let g:defaultExplorer=1
 nmap fir :FirstExplorerWindow<cr>
 nmap bot :BottomExplorerWindow<cr>
 nmap wm :WMToggle<cr>
-"minibuffer config
+"minibuffer configuration
 let g:miniBufExplMapCTabSwitchBufs=1
 let g:miniBufExplMapWindowNavVim=1
 let g:miniBufExplMapWindowNavArrows=1
-"quick file config
+"quick file configuration
 set cscopequickfix=s-,c-,d-,i-,t-,e-
-"cscope config
+"cscope configuration
 nmap <C-x>s :cs find s <C-R>=expand("<cword>")<CR><CR>
 nmap <C-x>g :cs find g <C-R>=expand("<cword>")<CR><CR>
 nmap <C-x>c :cs find c <C-R>=expand("<cword>")<CR><CR>
