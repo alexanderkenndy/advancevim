@@ -1,0 +1,426 @@
+ 	digraph.cnx	/^$/
+ 	repeat.cnx	98
+ 模式	version7.cnx	459
+" 省略时，被	usr_27.cnx	254
+$VIMRUNTIME	starting.cnx	/^在 Unix 上，有一个 $VIMRUNTIME 编译时的�/
+$WINDOWID	gui.cnx	126
+$vim	if_ole.cnx	42
+@	hebrew.cnx	118
+@	repeat.cnx	112
+ABCDEFGHIJKLMNOPQRSTUVWXYZ	russian.cnx	37
+ASCII	options.cnx	/^	希伯来字母表的第一个字母的 ASCII 码/
+Aaron	hebrew.cnx	/^	   VIM 参考手册    by Ron Aaron (and Avner Lo/
+Adams	usr_42.cnx	312
+Adams	usr_42.cnx	319
+Aleph	quickref.cnx	/^'aleph'		  'al'	    Aleph 字母 (希伯来语) �/
+BeOS	os_beos.cnx	/^这是一个适用于 BeOS 预览版本 2 (也被�/
+BufNetRead	usr_41.cnx	/^	function BufNetRead(...)$/
+BufNetWrite	usr_41.cnx	/^	function BufNetWrite(...)$/
+BufNewFile	autocmd.cnx	68
+BufWritePre	autocmd.cnx	1002
+Bye	usr_10.cnx	508
+C	pattern.cnx	/^CTRL-C			中止当前的 (搜索) 命令。在 MS-/
+CJK	options.cnx	/^	一些画线字符。因此如果 GUI Vim 使用 /
+Campbell	pi_getscript.cnx	3
+Campbell	pi_getscript.cnx	7
+Campbell	pi_getscript.cnx	10
+Campbell	pi_vimball.cnx	9
+Config	os_beos.cnx	249
+CurrentLineInfo	if_lua.cnx	/^	function! CurrentLineInfo()$/
+D	tagsrch.cnx	657
+D	tagsrch.cnx	672
+D	usr_29.cnx	512
+DEFAULT_TERM	if_cscop.cnx	140
+DEFAULT_TERM	if_cscop.cnx	142
+DEFAULT_TERM	if_cscop.cnx	144
+DEFAULT_TERM	if_cscop.cnx	146
+DEFAULT_TERM	if_cscop.cnx	148
+DEFAULT_TERM	if_cscop.cnx	150
+DEFAULT_TERM	if_cscop.cnx	152
+DEFAULT_TERM	if_cscop.cnx	154
+DEFAULT_TERM	if_cscop.cnx	156
+DEFAULT_TERM	if_cscop.cnx	158
+DOS	gui_w16.cnx	91
+Dasn	cmdline.cnx	6
+Dasn	os_msdos.cnx	5
+Dasn	os_win32.cnx	5
+Dasn	sponsor.cnx	5
+DefPerl	if_perl.cnx	/^      function DefPerl()$/
+DefineDate	if_tcl.cnx	/^	function! DefineDate()$/
+E480	editing.cnx	/^:argd[elete] {pattern} ..			*:argd* *:argdelete* */
+E73	tagsrch.cnx	151
+END	ft_sql.cnx	177
+ESC_CHG_TO_ENG_MODE	hangulin.cnx	28
+Editor	mbyte.cnx	/^要在 Windows 上输入多字节字符，你可�/
+Escape	message.cnx	523
+Ex	vi_diff.cnx	38
+Example_Func	helphelp.cnx	/^    function Example_Func()$/
+FEAT_FOO	develop.cnx	213
+GUI	gui.cnx	21
+GUI	gui.cnx	/^如果使用 Motif 或者 Athena 版本的 GUI (�/
+GUI	gui_x11.cnx	22
+GUI	repeat.cnx	/^   对只用 GUI 的版本 (Windows、Macintosh) �/
+GetVimIndent	usr_41.cnx	/^	function GetVimIndent()~$/
+Giorgio	os_390.cnx	24
+GuiTabLabel	tabpage.cnx	/^	function GuiTabLabel()$/
+HANGUL_DEFAULT_KEYBOARD	hangulin.cnx	27
+Help	usr_42.cnx	/^Help 菜单被指定了一个很大的值，这样/
+I	tagsrch.cnx	597
+I	tagsrch.cnx	614
+IO::File	os_beos.cnx	248
+IcecreamInitialize	if_pyth.cnx	/^	function! IcecreamInitialize()$/
+InsertDot	version7.cnx	/^	:inoremap <expr> . InsertDot()$/
+J	change.cnx	/^J			连接 [count] 行，但至少包含两行。�/
+J	change.cnx	/^{Visual}J		连接高亮行，但至少包含两行/
+J	index.cnx	/^|J|		J		2  连接 (Join) N 行；缺省为 2$/
+L	usr_30.cnx	46
+LANG	mbyte.cnx	200
+LastMod	autocmd.cnx	/^  :fun LastMod()$/
+Leherbauer	if_sniff.cnx	/^		by Anton Leherbauer (toni@takefive.co.at)$/
+Lines	usr_12.cnx	205
+Lua	if_lua.cnx	18
+Lua	if_lua.cnx	/^以上的命令都可执行一段 Lua 代码块 (c/
+MEM_PROFILING	various.cnx	/^g CTRL-A		只有在 Vim 编译时定义了 MEM_PRO/
+MyCounter	eval.cnx	/^	function MyCounter()$/
+MyCounter	eval.cnx	/^	    function MyCounter()$/
+MyCounter	eval.cnx	/^	    function MyCounter()$/
+MyDiff	diff.cnx	/^	function MyDiff()$/
+MyDiff	os_vms.cnx	/^	function MyDiff()$/
+MyPatch	diff.cnx	/^	function MyPatch()$/
+MyTabLabel	tabpage.cnx	/^	function MyTabLabel(n)$/
+MyTabLine	tabpage.cnx	/^	function MyTabLine()$/
+N	index.cnx	333
+N	quickref.cnx	52
+N	quickref.cnx	53
+N	quickref.cnx	93
+N	quickref.cnx	94
+N	quickref.cnx	96
+N	quickref.cnx	98
+N	windows.cnx	/^		新窗口的高度为 N (默认值为现存高�/
+N	windows.cnx	/^CTRL-W <	使得当前窗口宽度减 N (默认值�/
+N	windows.cnx	/^		你可以一直使用 ":buffer N" 或 "N CTRL-^"/
+N	windows.cnx	865
+N	windows.cnx	870
+N	windows.cnx	891
+NextFile	usr_42.cnx	/^	:function <SID>NextFile()$/
+NextFile	usr_42.cnx	/^中的 NextFile() 调用来说，当你使用该�/
+Nvi、Posix�	vi_diff.cnx	/^-v		Nvi、Posix、Vi、Vim: 以普通模式启动 /
+O	vi_diff.cnx	/^-d {device}	Vim: 使用 {device} 作为 I\/O (仅�/
+P	change.cnx	848
+PreviewWord	windows.cnx	/^  :au! CursorHold *.[ch] nested call PreviewWord()/
+QfMakeConv	quickfix.cnx	/^	function QfMakeConv()$/
+QfMakeConv	quickfix.cnx	/^	function QfMakeConv()$/
+RPM	pi_spec.cnx	/^此 Vim 插件让你轻松更新 RPM 规格 (spec)/
+Rot13	change.cnx	/^{Visual}g?		用 Rot13 对高亮文本进行编码 /
+Ruby	if_ruby.cnx	72
+S	change.cnx	/^{Visual}["x]S		删除高亮行 [到寄存器 x 里/
+SOME_THING	develop.cnx	211
+SPAM	usr_44.cnx	371
+SQL	ft_sql.cnx	/^这里介绍用于 SQL 文件的文件类型插件/
+STRCPY	version7.cnx	/^Overlapping STRCPY() arguments when using %r item /
+SetFileTypeSH	eval.cnx	/^	function SetFileTypeSH(name)$/
+SetSyn	usr_41.cnx	/^	function SetSyn(name) ~$/
+StartCounting	eval.cnx	/^	function StartCounting(incr)$/
+StrawberryIcecream	if_pyth.cnx	44
+Syntax	usr_42.cnx	222
+T	motion.cnx	230
+T	motion.cnx	233
+T	windows.cnx	392
+Tcl	if_tcl.cnx	/^注意 Tcl 对象 (类似于变量) 在命令之�/
+Test2	repeat.cnx	/^  1 FUNCTION  Test2() ~$/
+U	change.cnx	/^{Visual}U		使高亮文本成为大写 (关于 {Vi/
+USA	os_mac.cnx	32
+Unicode	rileft.cnx	/^据 Unicode 规格的定义): 设定为从右到�/
+Unix	mbyte.cnx	/^2   2byte-{name} Unix: 任何双字节编码 (Vim /
+Unix	recover.cnx	/^Unix 上同一文件可以有两个名字。这可/
+Up	term.cnx	426
+VIM	editing.cnx	/^要 退 出 VIM！如果创建了备份，它保�/
+VIM	os_dos.cnx	52
+VIM::command	if_ruby.cnx	/^VIM::command({cmd})$/
+VIM::evaluate	if_ruby.cnx	/^VIM::evaluate({expr})$/
+VIM::set_option	if_ruby.cnx	/^VIM::set_option({arg})$/
+Vi	intro.cnx	/^这是一本关于 Vi 的书 (第六版)，里面�/
+Vile	vi_diff.cnx	815
+Vim	arabic.cnx	/^Vim 的阿拉伯语支持 (选项和映射)					*A/
+Vim	change.cnx	/^Vim 把其后的字符插入在行尾 (和插入�/
+Vim	change.cnx	/^  Vim 使用上一次检测到的大小写。$/
+Vim	editing.cnx	963
+Vim	fold.cnx	/^选项 'foldmarker' 可设定所用的标志。建/
+Vim	gui_w16.cnx	/^Windows 3.0 上测试过，所以它也许不能�/
+Vim	if_pyth.cnx	21
+Vim	intro.cnx	/^里显示。窗口大小改变的时候，Vim 自�/
+Vim	motion.cnx	361
+Vim	netbeans.cnx	/^启动时，Vim 会建立套接字连接 (客户�/
+Vim	quotes.cnx	/^以下是一些我从新闻组和邮件收集的�/
+Vim	remote.cnx	/^--serverlist 参数让 Vim 在标准输出 (stdout/
+Vim	spell.cnx	/^Vim 会报告重复单词的个数。这可能是�/
+Vim	usr_10.cnx	/^它要过滤哪部分文本。"5G" 命令告诉 Vi/
+Vim	usr_21.cnx	42
+Vim	vi_diff.cnx	/^-F		Vim: 以波斯语模式启动 (如果编译时/
+W	usr_08.cnx	/^就是先输入一个数值，然后输入 CTRL-W /
+W	usr_29.cnx	107
+Warp	os_os2.cnx	/^过，现在有了一个 Win32s-兼容的 GUI 版�/
+Willis	filetype.cnx	5
+Willis	if_ruby.cnx	5
+Willis	message.cnx	5
+Win32	gui_w32.cnx	22
+Win32	if_cscop.cnx	23
+Win32	vi_diff.cnx	/^文件路径长度		   Unix 和 Win32: 1024 字符/
+Windows	mbyte.cnx	/^1   cp{number}	MS-Windows: 任何已安装的单�/
+Windows	mbyte.cnx	/^2   cp{number}	MS-Windows: 任何已安装的双�/
+Words	usr_12.cnx	205
+X	usr_44.cnx	222
+XXX_one	usr_41.cnx	/^	function XXX_one(a)$/
+XXX_two	usr_41.cnx	/^	function XXX_two(b)$/
+Y	change.cnx	/^{Visual}["x]Y		抽出高亮行 [到寄存器 x] (�/
+Z	index.cnx	/^|CTRL-Z|	CTRL-Z		   暂停程序 (或者启动新�/
+ZZ	editing.cnx	/^ZZ			如果文件被修改，写回当前文件。/
+_	options.cnx	/^	CTRL-_ 切换波斯语和英语的键盘映射表/
+a	develop.cnx	240
+a	develop.cnx	243
+a	motion.cnx	480
+a	usr_10.cnx	124
+amenu	gui_w32.cnx	365
+append	if_ruby.cnx	/^append({n}, {str})$/
+arg2	develop.cnx	259
+argv	if_pyth.cnx	69
+auth	netbeans.cnx	199
+bar	gui_w32.cnx	403
+bd	windows.cnx	/^:bd[elete][!] [N]$/
+be	todo.cnx	/^    function be improved?$/
+bex	version4.cnx	52
+buffer	autocmd.cnx	61
+buffer	autocmd.cnx	787
+buffer	sign.cnx	115
+buffer	sign.cnx	123
+buffer	sign.cnx	133
+buffer	sign.cnx	152
+buffer	sign.cnx	167
+bun	windows.cnx	/^:bun[load][!] [N]$/
+but	version6.cnx	/^	    function but using "a:firstline" or "a:lastli/
+c	autocmd.cnx	980
+c	editing.cnx	/^				eval.c (30) ~$/
+c4	ft_sql.cnx	176
+c4	ft_sql.cnx	180
+call	eval.cnx	/^function call		*expr-function* *E116* *E118* *E119/
+cedit	options.cnx	1078
+charconvert	options.cnx	1102
+cino	indent.cnx	117
+cino	indent.cnx	127
+cino	indent.cnx	140
+cino	indent.cnx	152
+cnt	usr_29.cnx	54
+comments	repeat.cnx	272
+compiling	os_msdos.cnx	33
+console	os_win32.cnx	/^上运行，并且有 console (控制 台，就是/
+contains	usr_44.cnx	194
+cs	term.cnx	153
+cscope	if_cscop.cnx	/^    kill  : 终止一个 cscope 连接 (或终止�/
+cscopequickfix	if_cscop.cnx	233
+cursor	if_ruby.cnx	169
+d	change.cnx	/^:[range]d[elete] [x]	删除 [range] 范围的行 (/
+d	tagsrch.cnx	644
+d	usr_29.cnx	513
+dead	usr_42.cnx	313
+delete	if_ruby.cnx	/^delete({n})	删除缓冲区的一行。{n} 是行�/
+dir	editing.cnx	400
+doinclude	os_beos.cnx	251
+e	editing.cnx	/^:e[dit] [++opt] [+cmd] #[count]$/
+e	editing.cnx	347
+e	pattern.cnx	/^    e[+num]	[num] 字符向右 (从匹配结束 (e/
+e	quickref.cnx	/^    e[+num]	匹配结尾 (end) 右方 [num] 个字/
+encoding	arabic.cnx	20
+encoding	mbyte.cnx	297
+end	ft_sql.cnx	119
+eol	options.cnx	/^	eol	允许在换行符上退格 (连接行)$/
+eval	if_lua.cnx	/^	vim.eval({expr})	计算表达式 {expr} (见 |exp/
+exec	os_unix.cnx	/^执行外部命令时，会尽可能调用 fork()\//
+expression	change.cnx	/^		No previous substitute regular expression (没�/
+f	editing.cnx	244
+features	usr_90.cnx	169
+ff	editing.cnx	367
+ff	editing.cnx	703
+file	sign.cnx	104
+file	sign.cnx	118
+file	sign.cnx	129
+file	sign.cnx	148
+file	sign.cnx	160
+fileencoding	hangulin.cnx	41
+fileencoding	windows.cnx	612
+filename	eval.cnx	/^	function filename#funcname()$/
+filereadable	version5.cnx	/^Function filereadable() could call fopen() with an/
+find	editing.cnx	341
+find_entry	usr_29.cnx	/^		int find_entry(char *name)$/
+foo	indent.cnx	142
+foo	indent.cnx	142
+ftplugin_sql_objects	ft_sql.cnx	124
+ftplugin_sql_statements	ft_sql.cnx	142
+funcA	fold.cnx	/^	void funcA() {}$/
+funcA	usr_28.cnx	/^	void funcA() {}$/
+funcB	fold.cnx	/^	void funcB() {}$/
+funcB	usr_28.cnx	/^	void funcB() {}$/
+g	tagsrch.cnx	191
+g	tagsrch.cnx	192
+g	tagsrch.cnx	196
+gUiw	change.cnx	276
+gd	pattern.cnx	/^gd			跳转 (goto) 至局部声明 (declaration)�/
+get_counter	usr_29.cnx	/^	   |     int get_counter(void)$/
+guifg	mbyte.cnx	905
+guifont	os_qnx.cnx	100
+guifontset	hangulin.cnx	71
+guifontset	hangulin.cnx	81
+gvim	gui_w32.cnx	/^如果你发现用 "添加\/删除程序" 卸载 gv/
+header	print.cnx	/^  header:2  (缺省)	页眉使用两行$/
+height	if_ruby.cnx	165
+here	if_tcl.cnx	234
+host	netbeans.cnx	197
+http	if_ruby.cnx	23
+http	os_risc.cnx	33
+i	index.cnx	/^|v_i(|		i(		   等同于 ib$/
+i	tagsrch.cnx	108
+i	tagsrch.cnx	583
+i	usr_29.cnx	53
+icon	sign.cnx	68
+iconv	mbyte.cnx	/^{name} 可以是任何系统支持的编码名。V/
+in	pi_netrw.cnx	/^			     entry in the help (|netrw-quickhelp|).  Fi/
+in	print.cnx	290
+include	autocmd.cnx	984
+is	version6.cnx	/^	    function is still called. (Hari Krishna Dara)/
+isprint	hebrew.cnx	120
+job	vi_diff.cnx	/^有的系统没有任务 (job) 控制 (旧 Unix �/
+jwdu	undo.cnx	5
+keyAtPos	netbeans.cnx	739
+l	farsi.cnx	184
+le	change.cnx	/^:[range]le[ft] [indent]	左对齐 [range] 指定�/
+left	print.cnx	/^  left:{spec}		左边界 (缺省: 10pc)$/
+left	usr_25.cnx	167
+length	usr_10.cnx	507
+life	usr_42.cnx	311
+line	if_ruby.cnx	147
+line	sign.cnx	104
+line	sign.cnx	115
+line_number	if_ruby.cnx	148
+linehl	sign.cnx	77
+loaded_gzip	pi_gzip.cnx	15
+loaded_matchparen	pi_paren.cnx	15
+loadview	starting.cnx	1115
+local	develop.cnx	261
+local	develop.cnx	263
+ls	message.cnx	672
+m	hebrew.cnx	82
+makeprg	usr_30.cnx	111
+manual	usr_toc.cnx	5
+matchtime	usr_24.cnx	109
+mch_delay	tagsrch.cnx	/^			mch_delay(msec, ignoreinput)$/
+mm	print.cnx	290
+mzeval	if_mzsch.cnx	/^5. mzeval() Vim 函数                    |mzschem/
+n	print.cnx	/^  formfeed:n (缺省)	把换页字符 (0x0c) 看�/
+n	usr_27.cnx	269
+n	usr_27.cnx	269
+name	sign.cnx	104
+name	sign.cnx	115
+name	sign.cnx	118
+name	sign.cnx	123
+netlib	usr_41.cnx	/^	function netlib#ftp#read(fname)$/
+no	print.cnx	/^  c:no (缺省)		$/
+nroff	motion.cnx	/^等 (这些是 nroff 宏，所以句号一定要�/
+o	farsi.cnx	/^o  和从右到左两种模式下同时察看同�/
+of	usr_12.cnx	192
+of	usr_12.cnx	192
+omni_sql_no_default_maps	ft_sql.cnx	615
+on	if_tcl.cnx	259
+oobar	gui.cnx	502
+option	options.cnx	255
+p	if_cscop.cnx	168
+path	options.cnx	318
+path	os_mac.cnx	88
+plugin	repeat.cnx	158
+port	netbeans.cnx	198
+print	if_lua.cnx	/^	:lua print("Hello, Vim!")$/
+printdevice	print.cnx	123
+prototypes	version6.cnx	/^	    function prototypes are still found.$/
+pt	print.cnx	290
+ptag	windows.cnx	/^		使用当前光标所处位置的标识符作为/
+put	change.cnx	836
+q	windows.cnx	/^:q[uit]		退出当前窗口。如果退出的是�/
+release	os_mac.cnx	26
+s	change.cnx	/^{Visual}["x]s		删除高亮文本 [到寄存器 x /
+s	index.cnx	/^|s|		["x]s		2  (替换) 删除 N 个字符 [到缓/
+s	map.cnx	/^	function s:SID()$/
+s	tips.cnx	/^	function s:Highlight_Matching_Paren()$/
+se	options.cnx	57
+se	quickref.cnx	536
+se troubl	version7.cnx	2055
+self	if_ruby.cnx	141
+sh	various.cnx	/^:sh[ell]		该命令启动一个外壳。外壳退�/
+shell	mbyte.cnx	202
+showbreak	intro.cnx	679
+start	usr_44.cnx	215
+start	usr_44.cnx	232
+substitute	change.cnx	/^g&			等价于 ":%s\/\/~\/&" (在所有行上重复�/
+sw	options.cnx	96
+sw	options.cnx	396
+symbol	if_sniff.cnx	/^很多请求需要一个 symbol (标识符) 作为/
+t_mr	os_amiga.cnx	/^	t_mr (反白文本)$/
+table_idx	develop.cnx	295
+tags	tagsrch.cnx	397
+tags	usr_29.cnx	118
+tearoff	gui_w32.cnx	366
+tempname	change.cnx	/^Vim 使用临时文件来处理过滤、执行比�/
+term	if_cscop.cnx	160
+term	if_cscop.cnx	166
+text	sign.cnx	80
+texthl	sign.cnx	84
+that	todo.cnx	/^function that resets did_cursorhold.$/
+tiny	various.cnx	/^			   T	tiny (微小)$/
+toggle	options.cnx	18
+top	print.cnx	/^  top:{spec}		顶部边界 (缺省: 5pc)$/
+total	usr_24.cnx	124
+tw	howto.cnx	94
+tw	if_lua.cnx	131
+tw	os_beos.cnx	290
+tw	os_mint.cnx	33
+tw	sign.cnx	170
+tw	starting.cnx	1274
+tw	tagsrch.cnx	718
+tw	version4.cnx	328
+txt	pi_getscript.cnx	/^           pi_getscript.txt (see |copyright|) exce/
+u	change.cnx	/^{Visual}u		使高亮文本成为小写 (关于 {Vi/
+ue	digraph.cnx	/^Vim 里使用值高于 128 的字符可能会有�/
+v	syntax.cnx	/^	 Function	v 函数名 (也包括: 类的方法名/
+v_	change.cnx	459
+v_a	motion.cnx	480
+v_g	tagsrch.cnx	195
+var	develop.cnx	287
+var	develop.cnx	288
+varA，v	usr_28.cnx	271
+verbose	various.cnx	486
+vim	gui.cnx	/^		把 GUI vim 窗口放在给定 {X} 和 {Y} 坐�/
+vim	if_lua.cnx	/^	vim.command({cmd})	执行 vim (ex 模式) 命令 /
+vim	if_tcl.cnx	/^	执行 vim (ex 模式) 的 {cmd} 命令。任何�/
+vim	options.cnx	431
+vimobj	if_ole.cnx	48
+vimrc	autocmd.cnx	843
+vimrc	starting.cnx	/^	~\/.vimrc	(Unix 和 OS\/2)$/
+vimrc	starting.cnx	/^你想使之成为缺省的 .vimrc，把该文件�/
+w	message.cnx	520
+w	quickref.cnx	/^|w|	N  w		向前 (正向，下同) N 个单词    /
+which	pi_netrw.cnx	/^			     function which handles utf-8 wide characte/
+width	if_ruby.cnx	167
+x	change.cnx	823
+x	gui_w32.cnx	280
+x	index.cnx	280
+y	change.cnx	/^{Visual}["x]y		抽出高亮文本 [到寄存器 x]/
+z	fold.cnx	350
+z	quickref.cnx	125
+z	quickref.cnx	126
+z	various.cnx	115
+zo	fold.cnx	/^zo		打开 (open) 在光标下的折叠。当给�/
+~	change.cnx	/^{Visual}~		切换高亮文本的大小写 (关于 /
+~	fold.cnx	344
+~	help.cnx	/^		          类别			前缀	   例子	~$/
+~	sign.cnx	/^		名。通配符，$ENV 和 ~ 不会被扩展，�/
+~	usr_10.cnx	/^	~       交换大小写     (a -> A 而 A -> a)$/
+~	usr_30.cnx	/^	"main.c" 11L, 111C ~$/
+�	usr_29.cnx	350
+原来的地	usr_29.cnx	497
