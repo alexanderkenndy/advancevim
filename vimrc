@@ -116,6 +116,15 @@ nmap <C-x>f :cs find f <C-R>=expand("<cfile>")<CR><CR>
 nmap <C-x>i :cs find i ^<C-R>=eptend("<cfile>")<CR>$<CR>
 nmap <C-x>d :cs find d <C-R>=expand("<cword>")<CR><CR>
 
+"showmarks configuration
+let showmarks_enable = 1
+let showmarks_include = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ01234567890"
+let showmarks_ignore_type = "hqm"
+let showmarks_hlline_lower = 1
+let showmarks_hlline_upper = 1
+
+nmap <silent> <leader>bm :MarksBrowser<cr> 
+
 if filereadable("/etc/vim/vimrc.local")
   source /etc/vim/vimrc.local
 endif
