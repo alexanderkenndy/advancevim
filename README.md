@@ -11,3 +11,4 @@ Plugins List
 4.WinManager
 5.MiniBufExplorer
 6.ShowMarks
+7.EchoFunction
