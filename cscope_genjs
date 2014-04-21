@@ -1,3 +1,5 @@
+#!/bin/bash
+# it's better add this file to /usr/loca/bin/ and chmod to executebale
 find . -name "*.js" > cscope.files
 cscope -bkq -i cscope.files
 ctags -R

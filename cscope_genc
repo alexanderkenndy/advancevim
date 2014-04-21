@@ -1,3 +1,5 @@
+#!/bin/bash
+# it's better to add this file to /usr/loca/bin and use chmod a+x on this file
 find . -name "*.cpp" -o -name "*.h" -o -name "*.cc" -o -name "*.c" > cscope.files
 cscope -bkq -i cscope.files
 ctags -R
