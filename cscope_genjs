@@ -1,0 +1,5 @@
+find . -name "*.js" > cscope.files
+cscope -bkq -i cscope.files
+ctags -R
+rm cscope.files
+exit 0
