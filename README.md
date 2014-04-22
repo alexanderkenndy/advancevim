@@ -12,3 +12,4 @@ Plugins List
 5.MiniBufExplorer
 6.ShowMarks
 7.EchoFunction
+8.Vim org mode
