@@ -49,7 +49,6 @@ set completeopt=longest,menu
 "set mouse=a		" Enable mouse usage (all modes)
 
 " Source a global configuration file if available
-
 set shiftwidth=4
 set softtabstop=4
 set showcmd
