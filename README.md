@@ -5,11 +5,11 @@ with the given plugins user can use vim more conveniently,we included the ctas,c
 the vim editor's advance configuration
 add winmanager plugin
 Plugins List
-*.ctags
-*.cscope
-*.TagList
-*.WinManager
-*.MiniBufExplorer
-*.ShowMarks
-*.EchoFunction
-*.Vim org mode
+- ctags
+- cscope
+- TagList
+- WinManager
+- MiniBufExplorer
+- ShowMarks
+- EchoFunction
+- Vim org mode
