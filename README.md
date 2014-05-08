@@ -13,3 +13,4 @@ Plugins List
 - ShowMarks
 - EchoFunction
 - Vim org mode
+- calendar
