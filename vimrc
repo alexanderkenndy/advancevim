@@ -61,6 +61,8 @@ set hlsearch
 set showmatch
 set incsearch
 set cursorline
+hi CursorLine	cterm=NONE ctermbg=darkred ctermfg=white
+hi CursorColumn cterm=NONE ctermbg=darkred ctermfg=white
 set ruler
 set nu
 set fileencodings=utf-8,gb2312,gbk,gb18030
