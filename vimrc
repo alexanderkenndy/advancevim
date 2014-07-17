@@ -125,6 +125,10 @@ let showmarks_hlline_lower = 1
 let showmarks_hlline_upper = 1
 
 nmap <silent> <leader>bm :MarksBrowser<cr> 
+filetype on
+filetype plugin on
+set runtimepath+=~/.vim/textmateOnly
+set runtimepath+=~/.vim/textmateOnly/after
 
 if filereadable("/etc/vim/vimrc.local")
   source /etc/vim/vimrc.local
