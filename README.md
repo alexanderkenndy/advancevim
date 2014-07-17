@@ -14,3 +14,4 @@ Plugins List
 - EchoFunction
 - Vim org mode
 - calendar
+- textmateOnly
