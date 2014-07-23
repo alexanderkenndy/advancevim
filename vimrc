@@ -129,6 +129,30 @@ filetype on
 filetype plugin on
 set runtimepath+=~/.vim/textmateOnly
 set runtimepath+=~/.vim/textmateOnly/after
+set runtimepath+=~/.vim/emmet-vim
+set runtimepath+=~/.vim/emmet-vim/autoload
+
+"emmet vim use
+let g:user_emmet_expandabbr_key = '<Tab>'
+
+"redefine trigger key
+"to remap the default '<C-Y>' leader
+"let g:user_emmet_leader_key='<C-Z>'
+"and as we know the default key of <c-z> is quit file ,so do not use this key
+"and redefine as other keys 
+let g:user_emmet_settings = {
+			\ 'php' : {
+			\ 'extends' : 'html',
+			\ 'filters' : 'c',
+			\ },
+			\ 'xml' : {
+			\ 'extends' : 'html',
+			\ },
+			\ 'haml' : {
+			\ 'extends' : 'html',
+			\ },
+			\}
+
 
 if filereadable("/etc/vim/vimrc.local")
   source /etc/vim/vimrc.local
