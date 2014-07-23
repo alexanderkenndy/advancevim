@@ -15,3 +15,5 @@ Plugins List
 - Vim org mode
 - calendar
 - textmateOnly
+- emmet-vim
+	refer to :https://github.com/mattn/emmet-vim
