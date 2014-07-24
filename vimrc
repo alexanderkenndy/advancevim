@@ -116,7 +116,9 @@ nmap <C-x>e :cs find e <C-R>=expand("<cword>")<CR><CR>
 nmap <C-x>f :cs find f <C-R>=expand("<cfile>")<CR><CR>
 nmap <C-x>i :cs find i ^<C-R>=eptend("<cfile>")<CR>$<CR>
 nmap <C-x>d :cs find d <C-R>=expand("<cword>")<CR><CR>
-
+"nmap <F6>:cn<cr>
+"nmap <F7>:cp<cr>
+"Source a global configuration file if available
 "showmarks configuration
 let showmarks_enable = 1
 let showmarks_include = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ01234567890"
@@ -152,7 +154,6 @@ let g:user_emmet_settings = {
 			\ 'extends' : 'html',
 			\ },
 			\}
-
 
 if filereadable("/etc/vim/vimrc.local")
   source /etc/vim/vimrc.local
