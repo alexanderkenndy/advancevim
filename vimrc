@@ -155,6 +155,10 @@ let g:user_emmet_settings = {
 			\ },
 			\}
 
+"insert current time to file
+:nnoremap <F5> "=strftime("%c")<CR>gP
+:inoremap <F5> <C-R>=strftime("%c")<CR>
+
 if filereadable("/etc/vim/vimrc.local")
   source /etc/vim/vimrc.local
 endif
