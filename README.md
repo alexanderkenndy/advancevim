@@ -1,8 +1,7 @@
 advancevim
 ==========
 ##Introduction
-Vim and emacs is the most popular used editor in *inx editor
-with the given plugins user can use vim more conveniently,we included the ctas,cscopes plugins .etc.
+Vim and Emacs is the most popular used in POSIX. With the given plugins we can use vim more conveniently, included the ctags,cscopes taglist,calendar.etc
 ##Features
 - ctags
 - cscope
@@ -13,7 +12,7 @@ with the given plugins user can use vim more conveniently,we included the ctas,c
 - EchoFunction
 - Vim org mode
 - calendar
-- textmateOnly
+- [textmateOnly](http://snippetsemu.googlecode.com/svn/branches/textmateOnly/)
 - [emmet-vim](https://github.com/mattn/emmet-vim)
 
 ##Getting Started
