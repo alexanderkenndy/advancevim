@@ -1,10 +1,9 @@
 advancevim
 ==========
+##Introduction
 Vim and emacs is the most popular used editor in *inx editor
-with the given plugins user can use vim more conveniently,we included the ctas,cscopes plugin
-the vim editor's advance configuration
-add winmanager plugin
-Plugins List
+with the given plugins user can use vim more conveniently,we included the ctas,cscopes plugins .etc.
+##Features
 - ctags
 - cscope
 - TagList
@@ -15,5 +14,21 @@ Plugins List
 - Vim org mode
 - calendar
 - textmateOnly
-- emmet-vim
-	refer to :https://github.com/mattn/emmet-vim
+- emmet-vim(https://github.com/mattn/emmet-vim)
+##Getting Started
+-Install ctags
+  tar xf ctags-5.8.tar.gz
+  cd ctags-5.8
+  ./configure
+  make
+  sudo make install
+-Install cscopes
+  tar xf cscop-15.8a.tar.gz
+  cd cscop-15.8a
+  ./configure
+  make
+  sudo make install
+
+
+  
+
