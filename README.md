@@ -14,7 +14,8 @@ with the given plugins user can use vim more conveniently,we included the ctas,c
 - Vim org mode
 - calendar
 - textmateOnly
-- emmet-vim(https://github.com/mattn/emmet-vim)
+- [emmet-vim](https://github.com/mattn/emmet-vim)
+
 ##Getting Started
 -Install ctags
   tar xf ctags-5.8.tar.gz
