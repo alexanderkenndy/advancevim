@@ -1,4 +1,4 @@
-advancevim
+Advancevim
 ==========
 ##Introduction
 Vim and Emacs is the most popular used in POSIX. With the given plugins we can use vim more conveniently, included the ctags,cscopes taglist,calendar.etc
@@ -21,25 +21,22 @@ Vim and Emacs is the most popular used in POSIX. With the given plugins we can u
 
 ##Getting Started
 - Install ctags
-
-  * $ tar xf ctags-5.8.tar.gz
-  * $ cd ctags-5.8
-  * $ ./configure
-  * $ make
-  * $ sudo make install
+```
+   $ tar xf ctags-5.8.tar.gz
+   $ cd ctags-5.8
+   $ ./configure
+   $ make
+   $ sudo make install
+```
 - Install cscopes
-
-  * $ tar xf cscop-15.8a.tar.gz
-  * $ cd cscop-15.8a
-  * $ ./configure
-  * $ make
-  * $ sudo make install
+```
+   $ tar xf cscop-15.8a.tar.gz
+   $ cd cscop-15.8a
+   $ ./configure
+   $ make
+   $ sudo make install
+```
   
 ##Documents
 For more information on how to install vim plugins,see
   [How to install ctags and cscopes](http://blog.csdn.net/alexanderkenndy/article/details/24042713)
-
-
-  
-
->>>>>>> 960972068fd44e30ba6bd981f7629bb2a2527e90
