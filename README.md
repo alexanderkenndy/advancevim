@@ -27,7 +27,7 @@ Vim and Emacs is the most popular used in POSIX. With the given plugins we can u
 - Copy plugins into vim env
 ```
 	$ mkdir ~/.vim   //if ~/.vim doesn't exists
-	$ cp -r autoload bundle docs ~/.vim/
+	$ cp -r autoload bundle docs syntax ~/.vim/
 	$ sudo cp vimrc /etc/vim/
 ```
 - Install ctags
