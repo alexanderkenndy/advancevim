@@ -21,6 +21,7 @@ Vim and Emacs is the most popular used in POSIX. With the given plugins we can u
 - [NERDTree](https://github.com/scrooloose/nerdtree)
 - [Command-T](https://wincent.com/products/command-t)
 
+
 ##Getting Started
 - Install ctags
 ```
@@ -30,7 +31,7 @@ Vim and Emacs is the most popular used in POSIX. With the given plugins we can u
 	$ ./configure
 	$ make
 	$ sudo make install
-`	 ``
+```
 - Install cscopes
 ```
 	$ cd ./lib
@@ -47,5 +48,5 @@ Vim and Emacs is the most popular used in POSIX. With the given plugins we can u
 ```
   
 ##Documents
-For more information on how to install vim plugins,see
-  [How to install ctags and cscopes](http://blog.csdn.net/alexanderkenndy/article/details/24042713)
+For more information on how to install vim plugins,see 
+[How to install ctags and cscopes](http://blog.csdn.net/alexanderkenndy/article/details/24042713)
