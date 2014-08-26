@@ -3,15 +3,17 @@ Advancevim
 ##Introduction
 Vim and Emacs is the most popular used in POSIX. With the given plugins we can use vim more conveniently, included the ctags,cscopes taglist,calendar.etc
 ##Features
-- ctags
-- cscope
-- TagList
+- [ctags](http://ctags.sourceforge.net)
+- [cscope](http://cscope.sourceforge.net)
+- [TagList](https://github.com/vim-scripts/taglist.vim)
 - WinManager
 - MiniBufExplorer
 - ShowMarks
 - EchoFunction
 - Vim org mode
 - calendar
+- [pathogen](https://github.com/tpope/vim-pathogen)
+- [visualmark](http://www.vim.org/scripts/download_script.php?src_id=4700)
 - [NERDTree](https://github.com/scrooloose/nerdtree)
 - [textmateOnly](http://snippetsemu.googlecode.com/svn/branches/textmateOnly/)
 - [emmet-vim](https://github.com/mattn/emmet-vim)
@@ -22,19 +24,26 @@ Vim and Emacs is the most popular used in POSIX. With the given plugins we can u
 ##Getting Started
 - Install ctags
 ```
-   $ tar xf ctags-5.8.tar.gz
-   $ cd ctags-5.8
-   $ ./configure
-   $ make
-   $ sudo make install
-```
+	$ cd ./lib	
+	$ tar xf ctags-5.8.tar.gz
+	$ cd ctags-5.8
+	$ ./configure
+	$ make
+	$ sudo make install
+`	 ``
 - Install cscopes
 ```
-   $ tar xf cscop-15.8a.tar.gz
-   $ cd cscop-15.8a
-   $ ./configure
-   $ make
-   $ sudo make install
+	$ cd ./lib
+	$ tar xf cscop-15.8a.tar.gz
+	$ cd cscop-15.8a
+	$ ./configure
+	$ make
+	$ sudo make install
+```
+- Copy bash file to /usr/local/bin 
+```
+	$ sudo cp ./bin/cscope* /usr/local/bin
+	$ sudo chmod u+x /usr/local/bin/cscope*
 ```
   
 ##Documents

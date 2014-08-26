@@ -72,6 +72,10 @@ set encoding=prc
 if has("tags")
     set tags=tags
 endif
+
+"add vim plugin manager pathogen
+call pathogen#infect()
+
 "Tlist config
 "copy from internet
 let Tlist_Ctags_Cmd='/usr/local/bin/ctags' 
@@ -93,14 +97,19 @@ let Tlist_WinHeight=10
 let Tlist_WinWidth=18
 let Tlist_Use_Horiz_Window=0
 nmap tl :TlistToggle<cr>
-"window manager configuration
+
+"win manager conf
 let g:winManagerWindowLayout='FileExplorer|TagList'
+
 let g:persisitentBehaviour=0
 let g:windowManagerWidth=20
 let g:defaultExplorer=1
 nmap fir :FirstExplorerWindow<cr>
 nmap bot :BottomExplorerWindow<cr>
+
 nmap wm :WMToggle<cr>
+"nmap <F3>:WMToggle<cr>
+"
 "minibuffer configuration
 let g:miniBufExplMapCTabSwitchBufs=1
 let g:miniBufExplMapWindowNavVim=1
@@ -127,12 +136,18 @@ let showmarks_hlline_lower = 1
 let showmarks_hlline_upper = 1
 
 nmap <silent> <leader>bm :MarksBrowser<cr> 
+
+"add snippets
 filetype on
 filetype plugin on
 set runtimepath+=~/.vim/textmateOnly
 set runtimepath+=~/.vim/textmateOnly/after
 set runtimepath+=~/.vim/emmet-vim
 set runtimepath+=~/.vim/emmet-vim/autoload
+
+"webapi-vim
+set runtimepath+=~/.vim/webapi-vim
+set runtimepath+=~/.vim/webapi-vim/autoload
 
 "emmet vim use
 let g:user_emmet_expandabbr_key = '<Tab>'
