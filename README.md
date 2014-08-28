@@ -1,5 +1,6 @@
 Advancevim
 ==========
+[![Build Status](https://secure.travis-ci.org/advancevim/advancevim.svg)](http://travis-ci.org/alexanderkenndy/advancevim)
 ##Introduction
 Vim and Emacs is the most popular used in POSIX. With the given plugins we can use vim more conveniently, included the ctags,cscopes taglist,calendar.etc
 ##Features
