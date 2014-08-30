@@ -171,7 +171,7 @@ let g:user_emmet_settings = {
 			\}
 
 "insert current time to file
-:nnoremap <F5> "=strftime("%c")<CR>gP
+:nnoremap <F5> "=strftime("%c")<CR>
 :inoremap <F5> <C-R>=strftime("%c")<CR>
 
 if filereadable("/etc/vim/vimrc.local")
