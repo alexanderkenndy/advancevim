@@ -150,7 +150,7 @@ set runtimepath+=~/.vim/webapi-vim
 set runtimepath+=~/.vim/webapi-vim/autoload
 
 "emmet vim use
-let g:user_emmet_expandabbr_key = '<Tab>'
+"let g:user_emmet_expandabbr_key = '<Tab>'
 
 "redefine trigger key
 "to remap the default '<C-Y>' leader
