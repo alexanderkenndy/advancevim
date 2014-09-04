@@ -55,6 +55,6 @@ Vim and Emacs is the most popular used in POSIX. With the given plugins we can u
 	$ sudo chmod u+x /usr/local/bin/cscope*
 ```
   
-##Documents
+##Documentation
 For more information on how to install vim plugins,see 
 [How to install ctags and cscopes](http://blog.csdn.net/alexanderkenndy/article/details/24042713)
