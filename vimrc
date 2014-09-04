@@ -150,7 +150,7 @@ set runtimepath+=~/.vim/webapi-vim
 set runtimepath+=~/.vim/webapi-vim/autoload
 
 "emmet vim use
-let g:user_emmet_expandabbr_key = '<Tab>'
+"let g:user_emmet_expandabbr_key = '<Tab>'
 
 "redefine trigger key
 "to remap the default '<C-Y>' leader
@@ -171,7 +171,7 @@ let g:user_emmet_settings = {
 			\}
 
 "insert current time to file
-:nnoremap <F5> "=strftime("%c")<CR>gP
+:nnoremap <F5> "=strftime("%c")<CR>
 :inoremap <F5> <C-R>=strftime("%c")<CR>
 
 if filereadable("/etc/vim/vimrc.local")
